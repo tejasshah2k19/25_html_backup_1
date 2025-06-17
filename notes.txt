@@ -1,0 +1,85 @@
+website --> amazon.com , facebook.com , 
+		twitter , flipkart , gsrtc , 
+
+
+website --> collection of webpages 
+		facebook -> Signup , Login , Home, Post , 
+					profile , setting 
+
+
+
+HTML --> webpage  
+
+
+web development 
+------------------------------------------------------
+first.c
+first ->  file name 
+.c    -> extension of the file
+
+html ? 
+first.html ->
+
+first.htm 
+ 
+ 
+.html   and .htm
+
+---------------------------------------------------------------
+tools ? 
+	vscode --> ? 
+	browser {chrome , edge , IE , opera ,safari}
+
+----------------------------------------------------------------
+
+HTML -> 
+        tags -> 
+                    html
+
+
+<html> 
+head 
+title 
+body 
+
+
+ => alt + shift + f or  right click -> format document 
+
+
+heading ->
+        h1 
+        h2 
+        h3
+        h4
+        h5
+        h6 
+
+br  
+
+
+font 
+    size 
+    face
+
+
+image ->  
+    img src height width   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
