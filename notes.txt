@@ -75,6 +75,20 @@ video ->
 
 
 
+table align="center" bgcolor="silver"
+    tr bgcolor="black"
+        td
+        th
+
+    tr align="center"
+
+
+    bgcolor="#c9cdd4"
+
+
+
+
+
 
 
 
